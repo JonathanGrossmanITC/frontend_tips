@@ -3,8 +3,8 @@
 By now, you should already have Visual Studio Code installed on your computer.
 The next step is to go to the extensions tab on your workspace, as shown in the first image:
 
-https://github.com/JonathanGrossmanITC/frontend_tips/blob/main/prettier/Capture1.PNG
-
+![extensions tab](/prettier/Capture1.PNG)
+Format: ![Alt Text](url)
 
 ## [HTML and CSS Refresher](#html-and-css-refresher)
 
