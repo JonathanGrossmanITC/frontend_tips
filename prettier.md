@@ -1,6 +1,6 @@
 # What is Prettier
 
-[INSERT TWO OR SO SENTENCES]
+Prettier is a code formatter, which means it will format your code - make it more readable and easier for you and other people to understand it.
 
 # Why and how should you use Prettier?
 
