@@ -1,15 +1,6 @@
-# How to install Prettier
+# What is Prettier
 
-By now, you should already have Visual Studio Code installed on your computer. The next step is to go to the extensions tab on your workspace, as shown in the image below:
-
-![extensions tab](/prettier/Capture1.PNG)
-
-Once there, you will be able to find many extensions to make your programming life easier and faster. Search for the Prettier extension, select it, and press install
-
-![extensions tab](/prettier/Capture2.PNG)
-
-
-After a few seconds, you should have Prettier installed, and you're ready to make your code, well, prettier.
+[INSERT TWO OR SO SENTENCES]
 
 # Why and how should you use Prettier?
 
@@ -30,6 +21,18 @@ On Linux Ctrl + Shift + I.
 This is the outcome:
 
 ![extensions tab](/prettier/Capture4.PNG)  
+
+# How to install Prettier
+
+By now, you should already have Visual Studio Code installed on your computer. The next step is to go to the extensions tab on your workspace, as shown in the image below:
+
+![extensions tab](/prettier/Capture1.PNG)
+
+Once there, you will be able to find many extensions to make your programming life easier and faster. Search for the Prettier extension, select it, and press install
+
+![extensions tab](/prettier/Capture2.PNG)  
+
+After a few seconds, you should have Prettier installed, and you're ready to make your code, well, prettier.
 
 You also can set-up Pretter so that it auto-formats when you save the file. To complete that setup, in your VS Code settings, search for "format" and choose "format on save".
 
