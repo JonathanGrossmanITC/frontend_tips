@@ -36,11 +36,11 @@ After a few seconds, you should have Prettier installed, and you're ready to mak
 
 You also can set-up Pretter so that it auto-formats when you save the file. To complete that setup, in your VS Code settings, search for "format" and choose "format on save".
 
-INSERT IMAGE
+![extensions tab](/prettier/Capture5.PNG)
 
 Next, in the VS Code settings, serach for "default formatter" and make sure to choose Prettier as your default formatter.
 
-INSERT IMAGE
+![extensions tab](/prettier/Capture6.PNG)
 
 There you go! Now you have a solution that allows you to focus on building instead of formatting!
 
