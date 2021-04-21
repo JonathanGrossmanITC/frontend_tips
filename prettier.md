@@ -36,7 +36,7 @@ Once there, you will be able to find many extensions to make your programming li
 
 After a few seconds, you should have Prettier installed. Now, you can make your code, well, prettier!
 
-You also can set-up Pretter so that it auto-formats each time you save the file. To complete that setup, open your settings by pressing Ctrl + or by clicking the `⚙` at the bottom left of VS Code. In your VS Code settings, search for "format" and choose "format on save".  
+You also can set-up Pretter so that it auto-formats each time you save the file. To complete that setup, open your settings by pressing Ctrl + or by clicking the gear ⚙ at the bottom left of VS Code. In your VS Code settings, search for "format" and choose "format on save".  
 
 ![extensions tab](/prettier/Capture5.png)
 
@@ -45,5 +45,4 @@ Next, in the VS Code settings, serach for "default formatter" and make sure to c
 ![extensions tab](/prettier/Capture6.PNG)
 
 There you go! Now you have a solution that allows you to focus on building instead of formatting!
-
 
